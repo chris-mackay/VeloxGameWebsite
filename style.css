@@ -1,0 +1,25 @@
+@font-face {font-family: volex_font; src: url(visitor.ttf);}
+
+html {overflow-y: scroll;}
+
+h1 {font-family: volex_font, sans_serif; font-size: 150px; font-weight: 100; color: rgba(45, 245, 41, 255);}
+
+a.inline:link {font-family: volex_font, sans_serif; font-size: 70px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
+a.inline:visited {font-family: volex_font, sans_serif; font-size: 70px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
+a.inline:hover {font-family: volex_font, sans_serif; font-size: 70px; font-weight: 100; color: rgba(255, 255, 0, 255); text-decoration: none;}
+a.inline:active {font-family: volex_font, sans_serif; font-size: 70px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
+
+a.mail:link {font-family: volex_font, sans_serif; font-size: 30px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
+a.mail:visited {font-family: volex_font, sans_serif; font-size: 30px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
+a.mail:hover {font-family: volex_font, sans_serif; font-size: 30px; font-weight: 100; color: rgba(255, 255, 0, 255); text-decoration: none;}
+a.mail:active {font-family: volex_font, sans_serif; font-size: 30px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
+
+hr {border: none; height: 1px; color: #333; /* old IE */ background-color: #333; /* Modern Browsers */}
+
+#footer {font-family: volex_font, sans_serif; font-size: 30px; font-weight: 100; color: rgba(45, 245, 41, 255); text-align: right; line-height: 40px; vertical-align: middle; width: 950px; height: 40px; display: inline-block; padding-right: 10px; padding-left: 10px; border-style: solid; border-color: rgba(45, 245, 41, 255);}
+#content {width: 950px; margin: 0 auto; margin-left: auto ; margin-right: auto ; margin-top: 20px;}
+
+.clearfooter {height: 50px; clear: both;}
+.backcolor {background-color: rgba(0, 24, 0, 132);}
+
+p {font-family: volex_font, sans_serif; font-size: 40px; font-weight: 100; color: rgba(45, 245, 41, 255);}
