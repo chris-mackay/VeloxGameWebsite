@@ -2,7 +2,7 @@
 
 html {overflow-y: scroll;}
 
-h1 {font-family: volex_font, sans_serif; font-size: 150px; font-weight: 100; color: rgba(45, 245, 41, 255);}
+h1 {font-family: volex_font, sans_serif; font-size: 150px; font-weight: 100; color: rgba(45, 245, 41, 255); margin-top: 0px; margin-bottom: 50px}
 
 a.inline:link {font-family: volex_font, sans_serif; font-size: 70px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
 a.inline:visited {font-family: volex_font, sans_serif; font-size: 70px; font-weight: 100; color: rgba(45, 245, 41, 255); text-decoration: none;}
@@ -22,4 +22,5 @@ hr {border: none; height: 1px; color: #333; /* old IE */ background-color: #333;
 .clearfooter {height: 50px; clear: both;}
 .backcolor {background-color: rgba(0, 24, 0, 132);}
 
-p {font-family: volex_font, sans_serif; font-size: 40px; font-weight: 100; color: rgba(45, 245, 41, 255);}
+p.medium {font-family: volex_font, sans_serif; font-size: 40px; font-weight: 100; color: rgba(45, 245, 41, 255);}
+p.small {font-family: volex_font, sans_serif; font-size: 30px; font-weight: 100; color: rgba(45, 245, 41, 255);}
